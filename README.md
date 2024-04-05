@@ -20,5 +20,5 @@ Multi-Layer Perceptron (MLP): This neural network architecture is adept at captu
 - Sensationalism is notably more prevalent in headlines featuring keywords related to women, compared to those covering different subjects.
 - Identifying Gender Bias in a wider range using our ML model. 
 
-For a more detailed analysis and findings, please refer to our comprehensive Tableau dashboards (**click on the pic below**)
-[![preview](./data_viz/preview.png)](https://public.tableau.com/app/profile/hanyu.liu8152/viz/EDA_16900702041330/Datafolio).
+For a more detailed analysis and findings, please refer to our comprehensive and interactive Tableau dashboards (**click on the pic below**)
+[![preview](./data_viz/preview.png)](https://public.tableau.com/app/profile/hanyu.liu8152/viz/EDA_16900702041330/Datafolio)
